@@ -1,9 +1,2 @@
-# What are we building?
-
-### Express server
-
-### GitHub OAuth integration
-
-### Get logged in user
-
-### Without Passport
+# GitHub OAuth tutorial
+This repository goes with the tutorial video here: https://www.youtube.com/watch?v=qUE4-kSlPIk
